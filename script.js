@@ -67,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: "محمد زين", rating: 50, position: "SW", image: "player15.png" },
         { name: "مجتبى", rating: 50, position: "CM", image: "player16.png" },
         { name: "بكري", rating: 50, position: "ST", image: "player17.png" },
+        { name: "عمارة", rating: 50, position: "ST", image: "player17.png" },
         { name: "س:الامين", rating: 50, position: "CB", image: "player18.png" },
     ];
 
